@@ -1,0 +1,86 @@
+
+
+
+/*
+*{
+    margin: 0px;
+    padding: 0PX;
+}
+
+body{
+    border: 10px solid black;
+    margin: 0px;
+    background-color: #a3bcc2;
+    max-width: 900vw;
+    padding: 30px;
+}
+
+header{
+    background-color: cadetblue;
+}
+figure{
+    
+    margin-top: 30px;
+    text-align: center; 
+}
+img {
+    
+    width: auto;
+    height: 300px;
+    border-radius:350px;
+    border-color: aqua;
+    border: 5px solid black;
+    
+}
+
+
+.name, .life{
+    margin: auto;
+    width: 400px;
+    margin-top: 20px;
+    text-align: center; 
+}
+
+.life{
+    margin-top: 10px;
+    text-align: center; 
+}
+
+.section, p{
+    line-height: 40px;
+}
+
+main{
+    margin:30px;
+    
+}
+
+.section{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+hr{
+    color: brown;
+    border: 3px solid;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+h3{
+    font-size: 25px;
+}
+
+ul{
+    margin-left: 25px;
+}
+
+h1, h2, h3{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p, b{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
+    */
